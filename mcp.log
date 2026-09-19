@@ -1,0 +1,14 @@
+2026-09-20 04:53:09,972 [INFO] Processing request of type ListToolsRequest
+2026-09-20 04:53:10,046 [INFO] Processing request of type ListToolsRequest
+2026-09-20 04:54:00,534 [INFO] Processing request of type CallToolRequest
+2026-09-20 04:54:00,534 [INFO] [WEATHER MCP] get_singapore_weather called | start_date=2026-09-20, end_date=2026-09-22
+2026-09-20 04:54:00,563 [INFO] Processing request of type CallToolRequest
+2026-09-20 04:54:00,563 [INFO] [CURRENCY MCP] Converting 20000.0 INR to SGD
+2026-09-20 04:54:01,484 [INFO] Processing request of type ListToolsRequest
+2026-09-20 04:54:01,498 [INFO] Processing request of type ListToolsRequest
+2026-09-20 04:54:31,632 [INFO] Processing request of type CallToolRequest
+2026-09-20 04:54:31,632 [INFO] [WEATHER MCP] get_singapore_weather called | start_date=2026-09-20, end_date=2026-09-22
+2026-09-20 04:54:32,394 [INFO] Processing request of type ListToolsRequest
+2026-09-20 04:55:15,701 [INFO] Processing request of type CallToolRequest
+2026-09-20 04:55:15,702 [INFO] [CURRENCY MCP] Converting 100000.0 INR to SGD
+2026-09-20 04:55:16,473 [INFO] Processing request of type ListToolsRequest

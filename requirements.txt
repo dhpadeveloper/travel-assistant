@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-chroma
+langchain-mcp-adapters
+langchain-text-splitters
+chromadb
+mcp>=1.28,<2
+streamlit
+python-dotenv
+requests
+beautifulsoup4
+python-dotenv
