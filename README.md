@@ -11,7 +11,7 @@ An AI-powered Singapore travel assistant leveraging **Retrieval-Augmented Genera
 
 ## Architecture & Workflow
 
-![Architecture Diagram](images/image.png)
+![Architecture Diagram](image/image.png)
 
 ---
 
