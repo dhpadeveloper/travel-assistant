@@ -1,5 +1,8 @@
 Singapore Travel Planning Assistant
 An AI-powered Singapore travel assistant leveraging Retrieval-Augmented Generation (RAG) for local travel knowledge and Model Context Protocol (MCP) for live currency conversion and current weather information.
+Project Links
+•	GitHub Repository:  https://github.com/dhpadeveloper/travel-assistant
+•	Demo Video: https://nagarro-my.sharepoint.com/:v:/p/harsh_bhagwani/IQA7sEbzLGy0RphfjsTl661tAVBJvPpsutYeEOUIpyO3hIg?e=tTdnaR
 ________________________________________
 Architecture & Workflow
 
@@ -180,10 +183,3 @@ o	Wrap up your trip with dinner at VivoCity (Singapore's largest shopping mall, 
 Sources:
 •	Visit Singapore - Itineraries
 •	[Retrieved via Weather/Currency MCP]
-
-
-
-Project Links
-•	GitHub Repository: Add your GitHub repository link here
-•	Demo Video: Add your demo video link here
-
