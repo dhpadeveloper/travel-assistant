@@ -5,13 +5,13 @@ An AI-powered Singapore travel assistant leveraging **Retrieval-Augmented Genera
 ## Project Links
 
 * **GitHub Repository:** https://github.com/dhpadeveloper/travel-assistant
-* **Demo Video:** [Add your demo video link here](https://youtube.com/)
+* **Demo Video:** https://nagarro-my.sharepoint.com/:v:/p/harsh_bhagwani/IQA7sEbzLGy0RphfjsTl661tAVBJvPpsutYeEOUIpyO3hIg?e=tTdnaR
 
 ---
 
 ## Architecture & Workflow
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/image.png)
 
 ---
 
